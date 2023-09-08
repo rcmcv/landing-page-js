@@ -8,6 +8,10 @@
     border-bottom: 0.2rem solid var(--light-gray-color);
 }
 
+.menu-spacing {
+    height: 5rem;
+}
+
 .menu-content {
     display: flex;
     justify-content: space-between;
